@@ -34,7 +34,7 @@ Antes jugaba al baloncesto, algo que me ha permitido desarrollar la capacidad de
 ---
 
 ## Contacto 📫
-- **Email:** dcorgar2102@gmail.com
+- **Email:** dcornejogarcia775@gmail.com
 - **Instagram:** @daaniic7
 ---
 
