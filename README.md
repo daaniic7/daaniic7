@@ -1,42 +1,46 @@
-# ¡Hola! 👋 Soy Daniel Cornejo García
+# 👋 ¡Hola! Soy Daniel Cornejo García
 
-Soy un desarrollador en formación de Jaén, Andalucía. Actualmente, estudio **Desarrollo de Aplicaciones Multiplataforma** en el IES Virgen del Carmen.
----
-
-## Sobre Mí 🧑‍💻
-
-Tengo 20 años, nací y sigo viviendo en Jaén, me apasiona todo lo relacionado con la tecnología y actualmente trato de aprender a cada día más a programar para poder hacer realidad 
-todas las ideas que se me puedan llegar a ocurrir.
-Me considero alguien creativo y con unas ganas inmensas de adquirir nuevos conocimientos.
-Soy alguien optimista y persistente que trata de buscar siempre una solución a cualquier problema por dificil que sea.
-Antes jugaba al baloncesto, algo que me ha permitido desarrollar la capacidad de poder trabajar con más gente y adaptarme sin ningún tipo de problema a cualquier situación
----
-
-## Tecnologías que Conozco 🚀
-
-### Lenguajes
-- **Java**
-- **JavaScript**
-- **Kotlin**
-- **Json**
-- **HTML**
-
-### Bases de Datos
-- **SQLite**
----
-
-## Herramientas de Desarrollo 🛠️
-
-- **Visual Studio Code** (VSC)
-- **Android Studio**
-- **IntelliJ IDEA**
+Soy un desarrollador en formación de Jaén, Andalucía. Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma** en el IES Virgen del Carmen, y me encuentro en constante crecimiento personal y profesional dentro del mundo de la programación.
 
 ---
 
-## Contacto 📫
-- **Email:** dcornejogarcia775@gmail.com
-- **Instagram:** @daaniic7
+## 🧑‍💻 Sobre mí
+
+Tengo 20 años y vivo en Jaén, mi ciudad natal. Desde siempre me ha apasionado la tecnología, y cada día me esfuerzo por aprender algo nuevo que me acerque a crear todo tipo de ideas y proyectos propios.  
+Me considero una persona **creativa, optimista y persistente**, siempre dispuesta a encontrar soluciones incluso en los desafíos más complejos.
+
+Gracias a mi experiencia previa como jugador de baloncesto, he desarrollado habilidades sólidas para el trabajo en equipo y la adaptación a distintos entornos, cualidades que aplico también al mundo del desarrollo de software.
+
 ---
 
+## 🚀 Tecnologías que manejo
 
-Gracias por visitar mi perfil de GitHub! Si tienes cualquier duda pregúntame
+### Lenguajes de programación
+- Java
+- JavaScript
+- Kotlin
+- JSON
+- HTML
+
+### Bases de datos
+- SQLite
+
+---
+
+## 🛠️ Herramientas de desarrollo
+
+- Visual Studio Code
+- Android Studio
+- IntelliJ IDEA
+
+---
+
+## 📫 Contacto
+
+- **Correo:** dcornejogarcia775@gmail.com  
+- **Instagram:** [@daaniic7](https://instagram.com/daaniic7)
+
+---
+
+¡Gracias por visitar mi perfil de GitHub!  
+Si tienes alguna duda, proyecto interesante o simplemente quieres hablar sobre desarrollo, no dudes en escribirme.
