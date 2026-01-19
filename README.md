@@ -2,7 +2,7 @@ Soy un desarrollador en formación de Jaén, Andalucía. Actualmente estudio **D
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Tengo 21 años y vivo en Jaén, mi ciudad natal. Desde siempre me ha apasionado la tecnología, y cada día me esfuerzo por aprender algo nuevo que me acerque a crear todo tipo de ideas y proyectos propios.  
 Me considero una persona **creativa, optimista y persistente**, siempre dispuesta a encontrar soluciones incluso en los desafíos más complejos.
@@ -11,7 +11,7 @@ Gracias a mi experiencia previa como jugador de baloncesto, he desarrollado habi
 
 ---
 
-## 🚀 Tecnologías que manejo
+## Tecnologías que manejo
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ Gracias a mi experiencia previa como jugador de baloncesto, he desarrollado habi
 
 ---
 
-## 🛠️ Herramientas de desarrollo
+## Herramientas de desarrollo
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -34,7 +34,7 @@ Gracias a mi experiencia previa como jugador de baloncesto, he desarrollado habi
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daaniic7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcornejogarcia775@gmail.com)
