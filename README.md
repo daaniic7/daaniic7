@@ -34,8 +34,6 @@ Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actu
       <a href="mailto:dcorgar2102@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
       &nbsp;
       <a href="https://www.linkedin.com/in/daniel-cornejo-garc%C3%ADa-416930339" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-      &nbsp;
-      <a href="https://instagram.com/daaniic7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
     </td>
   </tr>
 </table>
