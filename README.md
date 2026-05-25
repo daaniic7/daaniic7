@@ -1,43 +1,43 @@
+<div align="center">
+
+# Hola, soy Daniel
+
+![](https://komarev.com/ghpvc/?username=daaniic7&color=orange)
+
 ## Sobre mí
+Soy un apasionado de la tecnología y vivo en Jaén, España. Mi motor diario es la curiosidad y las ganas de aprender algo nuevo para transformar ideas en proyectos reales y funcionales. Me considero una persona **creativa, optimista y persistente**, cualidades que me ayudan a encontrar soluciones eficientes incluso ante los desafíos más complejos.
 
-Mi nombre es Daniel Cornejo García,
-
-Soy un desarrollador en formación de Jaén, Andalucía. Actualmente estudio **Administración de Sistemas Informáticos en Red** en el IES Virgen del Carmen además poseo un título del grado superior **Desarrollo de Aplicaciones Multiplataforma** conseguido en el mismo instituto, me encuentro en constante crecimiento personal y profesional dentro del mundo de la programación y demás ámbitos de la informática.
-
-Tengo 22 años y vivo en Jaén, mi ciudad natal. Desde siempre me ha apasionado la tecnología, y cada día me esfuerzo por aprender algo nuevo que me acerque a crear todo tipo de ideas y proyectos propios.  
-Me considero una persona **creativa, optimista y persistente**, siempre dispuesta a encontrar soluciones incluso en los desafíos más complejos.
-
-Gracias a mi experiencia previa como jugador de baloncesto, he desarrollado habilidades sólidas para el trabajo en equipo y la adaptación a distintos entornos, cualidades que aplico también al mundo del desarrollo de software de manera eficiente.
+Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente ampliando mis conocimientos en **Administración de Sistemas Informáticos en Red (ASIR)** en el *IES Virgen del Carmen*.
 
 ---
 
-## Tecnologías que manejo
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h2>Tecnologías que manejo</h2>
+      <h3>Backend y Bases de Datos</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres&theme=dark" alt="Backend" /></a>
+      <h3>Frontend y Maquetación</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,md&theme=dark" alt="Frontend" /></a>
+      <h3>Control de Versiones</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Control de Versiones" /></a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h2>Herramientas de desarrollo</h2>
+      <br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode&theme=dark" alt="IDEs" /></a>
+      <br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql&theme=dark" alt="Herramientas" /></a>
+      <br /><br />
+      <h2>Contacto</h2>
+      <br />
+      <a href="mailto:dcorgar2102@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/daniel-cornejo-garc%C3%ADa-416930339" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+      &nbsp;
+      <a href="https://instagram.com/daaniic7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
+    </td>
+  </tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Herramientas de desarrollo
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-## Contacto
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daaniic7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcornejogarcia775@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-cornejo-garcía-416930339)
-
----
+</div>
