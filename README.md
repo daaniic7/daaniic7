@@ -16,7 +16,7 @@ Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actu
     <td align="center" width="50%" valign="top">
       <h2>Tecnologías que manejo</h2>
       <h3>Backend y Bases de Datos</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mongodb,nodejs&theme=dark" alt="Backend" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mongodb,prisma,nodejs&theme=dark" alt="Backend" /></a>
       <h3>Sistemas y Automatización</h3>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,py,powershell&theme=dark" alt="Sistemas" /></a>
       <h3>Frontend y Maquetación</h3>
@@ -29,10 +29,10 @@ Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actu
       <br />
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode&theme=dark" alt="IDEs" /></a>
       <br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,vbox&theme=dark" alt="Herramientas" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,grafana&theme=dark" alt="Herramientas" /></a>
       <br />
       <h3>Sistemas Operativos</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,windows&theme=dark" alt="Sistemas Operativos" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,kali,mint,windows&theme=dark" alt="Sistemas Operativos" /></a>
       <br /><br /><br />
       <h2>Contacto</h2>
       <br />
