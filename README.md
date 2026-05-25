@@ -16,19 +16,24 @@ Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actu
     <td align="center" width="50%" valign="top">
       <h2>Tecnologías que manejo</h2>
       <h3>Backend y Bases de Datos</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres&theme=dark" alt="Backend" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mongodb,nodejs&theme=dark" alt="Backend" /></a>
+      <h3>Sistemas y Automatización</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,py,powershell&theme=dark" alt="Sistemas" /></a>
       <h3>Frontend y Maquetación</h3>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,md&theme=dark" alt="Frontend" /></a>
       <h3>Control de Versiones</h3>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Control de Versiones" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Versiones" /></a>
     </td>
     <td align="center" width="50%" valign="top">
       <h2>Herramientas de desarrollo</h2>
       <br />
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode&theme=dark" alt="IDEs" /></a>
       <br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql&theme=dark" alt="Herramientas" /></a>
-      <br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,vbox&theme=dark" alt="Herramientas" /></a>
+      <br />
+      <h3>Sistemas Operativos</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,windows&theme=dark" alt="Sistemas Operativos" /></a>
+      <br /><br /><br />
       <h2>Contacto</h2>
       <br />
       <a href="mailto:dcorgar2102@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
